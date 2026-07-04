@@ -1,6 +1,6 @@
 # NVIDIA RTX Spark (Blackwell GB10) SoC Deep-Dive Analysis
 
-![NVIDIA RTX Spark 4K Labeled Chip Die Shot](file:///C:/Users/panda/.gemini/antigravity/brain/e8195b6a-bea7-47ce-9913-852bd456250e/rtx_spark_chip_4k_labeled_1783141131331.jpg)
+![NVIDIA RTX Spark 4K Labeled Chip Die Shot]([file:///C:/Users/panda/.gemini/antigravity/brain/e8195b6a-bea7-47ce-9913-852bd456250e/rtx_spark_chip_4k_labeled_1783141131331.jpg](https://github.com/PalaniForYou/General-Tech-Knowledge/blob/main/rtx_spark_chip_4k_labeled_1783141131331.jpg))
 
 This document provides a comprehensive breakdown of the **NVIDIA RTX Spark** (Blackwell architecture) System-on-Chip (SoC). We cover the identification of each major processing block on the die, explain their functions, list the chip's key features, and outline its disadvantages/limitations.
 
